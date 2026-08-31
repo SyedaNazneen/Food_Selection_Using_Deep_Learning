@@ -14,7 +14,7 @@ The system compares the performance of all models and provides the predicted foo
 
 ## 🚀 Live Application
 
-🔗 Live Demo:(https://foodselectionusingdeeplearning-16.streamlit.app/)
+🔗 Live Demo:https://foodselectionusingdeeplearning-16.streamlit.app/
 
 ---
 
