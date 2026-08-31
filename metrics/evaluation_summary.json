@@ -1,0 +1,69 @@
+{
+    "total_classes": 34,
+    "validation_loss": 1.645998,
+    "validation_accuracy_percent": 64.35,
+    "weakest_classes": [
+        {
+            "class_name": "Sandwich",
+            "total_validation_images": 50,
+            "correct_predictions": 14,
+            "accuracy_percent": 28.0
+        },
+        {
+            "class_name": "omelette",
+            "total_validation_images": 50,
+            "correct_predictions": 18,
+            "accuracy_percent": 36.0
+        },
+        {
+            "class_name": "Taco",
+            "total_validation_images": 50,
+            "correct_predictions": 20,
+            "accuracy_percent": 40.0
+        },
+        {
+            "class_name": "Taquito",
+            "total_validation_images": 50,
+            "correct_predictions": 21,
+            "accuracy_percent": 42.0
+        },
+        {
+            "class_name": "Hot Dog",
+            "total_validation_images": 50,
+            "correct_predictions": 23,
+            "accuracy_percent": 46.0
+        }
+    ],
+    "strongest_classes": [
+        {
+            "class_name": "dhokla",
+            "total_validation_images": 50,
+            "correct_predictions": 42,
+            "accuracy_percent": 84.0
+        },
+        {
+            "class_name": "pizza",
+            "total_validation_images": 50,
+            "correct_predictions": 42,
+            "accuracy_percent": 84.0
+        },
+        {
+            "class_name": "fried_rice",
+            "total_validation_images": 50,
+            "correct_predictions": 43,
+            "accuracy_percent": 86.0
+        },
+        {
+            "class_name": "pav_bhaji",
+            "total_validation_images": 50,
+            "correct_predictions": 43,
+            "accuracy_percent": 86.0
+        },
+        {
+            "class_name": "jalebi",
+            "total_validation_images": 50,
+            "correct_predictions": 46,
+            "accuracy_percent": 92.0
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Dataset (large files)
+dataset/
+
+# Trained Models (large files)
+models/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm IDE Files
+.idea/
+
+# VS Code Files
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Streamlit Cache
+.streamlit/
+
+# Temporary Files
+*.log

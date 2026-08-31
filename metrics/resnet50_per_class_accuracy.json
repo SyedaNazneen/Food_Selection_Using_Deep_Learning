@@ -1,0 +1,206 @@
+[
+    {
+        "class_name": "Taquito",
+        "total_validation_images": 50,
+        "correct_predictions": 30,
+        "accuracy_percent": 60.0
+    },
+    {
+        "class_name": "Taco",
+        "total_validation_images": 50,
+        "correct_predictions": 31,
+        "accuracy_percent": 62.0
+    },
+    {
+        "class_name": "apple_pie",
+        "total_validation_images": 50,
+        "correct_predictions": 34,
+        "accuracy_percent": 68.0
+    },
+    {
+        "class_name": "Sandwich",
+        "total_validation_images": 50,
+        "correct_predictions": 35,
+        "accuracy_percent": 70.0
+    },
+    {
+        "class_name": "chapati",
+        "total_validation_images": 50,
+        "correct_predictions": 37,
+        "accuracy_percent": 74.0
+    },
+    {
+        "class_name": "Crispy Chicken",
+        "total_validation_images": 50,
+        "correct_predictions": 37,
+        "accuracy_percent": 74.0
+    },
+    {
+        "class_name": "omelette",
+        "total_validation_images": 50,
+        "correct_predictions": 37,
+        "accuracy_percent": 74.0
+    },
+    {
+        "class_name": "Baked Potato",
+        "total_validation_images": 50,
+        "correct_predictions": 38,
+        "accuracy_percent": 76.0
+    },
+    {
+        "class_name": "kulfi",
+        "total_validation_images": 50,
+        "correct_predictions": 39,
+        "accuracy_percent": 78.0
+    },
+    {
+        "class_name": "paani_puri",
+        "total_validation_images": 50,
+        "correct_predictions": 39,
+        "accuracy_percent": 78.0
+    },
+    {
+        "class_name": "pakode",
+        "total_validation_images": 50,
+        "correct_predictions": 39,
+        "accuracy_percent": 78.0
+    },
+    {
+        "class_name": "cheesecake",
+        "total_validation_images": 50,
+        "correct_predictions": 40,
+        "accuracy_percent": 80.0
+    },
+    {
+        "class_name": "chicken_curry",
+        "total_validation_images": 50,
+        "correct_predictions": 40,
+        "accuracy_percent": 80.0
+    },
+    {
+        "class_name": "butter_naan",
+        "total_validation_images": 50,
+        "correct_predictions": 41,
+        "accuracy_percent": 82.0
+    },
+    {
+        "class_name": "Fries",
+        "total_validation_images": 50,
+        "correct_predictions": 41,
+        "accuracy_percent": 82.0
+    },
+    {
+        "class_name": "kadai_paneer",
+        "total_validation_images": 50,
+        "correct_predictions": 41,
+        "accuracy_percent": 82.0
+    },
+    {
+        "class_name": "samosa",
+        "total_validation_images": 50,
+        "correct_predictions": 41,
+        "accuracy_percent": 82.0
+    },
+    {
+        "class_name": "masala_dosa",
+        "total_validation_images": 50,
+        "correct_predictions": 42,
+        "accuracy_percent": 84.0
+    },
+    {
+        "class_name": "chole_bhature",
+        "total_validation_images": 50,
+        "correct_predictions": 43,
+        "accuracy_percent": 86.0
+    },
+    {
+        "class_name": "sushi",
+        "total_validation_images": 50,
+        "correct_predictions": 43,
+        "accuracy_percent": 86.0
+    },
+    {
+        "class_name": "burger",
+        "total_validation_images": 50,
+        "correct_predictions": 44,
+        "accuracy_percent": 88.0
+    },
+    {
+        "class_name": "Donut",
+        "total_validation_images": 50,
+        "correct_predictions": 44,
+        "accuracy_percent": 88.0
+    },
+    {
+        "class_name": "Hot Dog",
+        "total_validation_images": 50,
+        "correct_predictions": 44,
+        "accuracy_percent": 88.0
+    },
+    {
+        "class_name": "dal_makhani",
+        "total_validation_images": 50,
+        "correct_predictions": 45,
+        "accuracy_percent": 90.0
+    },
+    {
+        "class_name": "dhokla",
+        "total_validation_images": 50,
+        "correct_predictions": 45,
+        "accuracy_percent": 90.0
+    },
+    {
+        "class_name": "kaathi_rolls",
+        "total_validation_images": 50,
+        "correct_predictions": 45,
+        "accuracy_percent": 90.0
+    },
+    {
+        "class_name": "pizza",
+        "total_validation_images": 50,
+        "correct_predictions": 45,
+        "accuracy_percent": 90.0
+    },
+    {
+        "class_name": "ice_cream",
+        "total_validation_images": 50,
+        "correct_predictions": 46,
+        "accuracy_percent": 92.0
+    },
+    {
+        "class_name": "chai",
+        "total_validation_images": 50,
+        "correct_predictions": 47,
+        "accuracy_percent": 94.0
+    },
+    {
+        "class_name": "fried_rice",
+        "total_validation_images": 50,
+        "correct_predictions": 47,
+        "accuracy_percent": 94.0
+    },
+    {
+        "class_name": "idli",
+        "total_validation_images": 50,
+        "correct_predictions": 47,
+        "accuracy_percent": 94.0
+    },
+    {
+        "class_name": "jalebi",
+        "total_validation_images": 50,
+        "correct_predictions": 47,
+        "accuracy_percent": 94.0
+    },
+    {
+        "class_name": "momos",
+        "total_validation_images": 50,
+        "correct_predictions": 48,
+        "accuracy_percent": 96.0
+    },
+    {
+        "class_name": "pav_bhaji",
+        "total_validation_images": 50,
+        "correct_predictions": 48,
+        "accuracy_percent": 96.0
+    }
+]

@@ -1,0 +1,70 @@
+{
+    "model": "ResNet50",
+    "total_classes": 34,
+    "validation_loss": 0.602078,
+    "validation_accuracy_percent": 82.94,
+    "weakest_classes": [
+        {
+            "class_name": "Taquito",
+            "total_validation_images": 50,
+            "correct_predictions": 30,
+            "accuracy_percent": 60.0
+        },
+        {
+            "class_name": "Taco",
+            "total_validation_images": 50,
+            "correct_predictions": 31,
+            "accuracy_percent": 62.0
+        },
+        {
+            "class_name": "apple_pie",
+            "total_validation_images": 50,
+            "correct_predictions": 34,
+            "accuracy_percent": 68.0
+        },
+        {
+            "class_name": "Sandwich",
+            "total_validation_images": 50,
+            "correct_predictions": 35,
+            "accuracy_percent": 70.0
+        },
+        {
+            "class_name": "chapati",
+            "total_validation_images": 50,
+            "correct_predictions": 37,
+            "accuracy_percent": 74.0
+        }
+    ],
+    "strongest_classes": [
+        {
+            "class_name": "fried_rice",
+            "total_validation_images": 50,
+            "correct_predictions": 47,
+            "accuracy_percent": 94.0
+        },
+        {
+            "class_name": "idli",
+            "total_validation_images": 50,
+            "correct_predictions": 47,
+            "accuracy_percent": 94.0
+        },
+        {
+            "class_name": "jalebi",
+            "total_validation_images": 50,
+            "correct_predictions": 47,
+            "accuracy_percent": 94.0
+        },
+        {
+            "class_name": "momos",
+            "total_validation_images": 50,
+            "correct_predictions": 48,
+            "accuracy_percent": 96.0
+        },
+        {
+            "class_name": "pav_bhaji",
+            "total_validation_images": 50,
+            "correct_predictions": 48,
+            "accuracy_percent": 96.0
+        }
+    ]
+}

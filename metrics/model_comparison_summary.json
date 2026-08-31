@@ -1,0 +1,15 @@
+{
+    "models": {
+        "Custom CNN": {
+            "accuracy": 64.35
+        },
+        "VGG16": {
+            "accuracy": 75.12
+        },
+        "ResNet50": {
+            "accuracy": 82.94
+        }
+    },
+    "best_model": "ResNet50",
+    "best_accuracy": 82.94
+}

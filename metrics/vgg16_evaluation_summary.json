@@ -1,0 +1,70 @@
+{
+    "model_name": "VGG16",
+    "total_classes": 34,
+    "validation_loss": 0.858314,
+    "validation_accuracy_percent": 75.12,
+    "weakest_classes": [
+        {
+            "class_name": "Taco",
+            "total_validation_images": 50,
+            "correct_predictions": 17,
+            "accuracy_percent": 34.0
+        },
+        {
+            "class_name": "Taquito",
+            "total_validation_images": 50,
+            "correct_predictions": 21,
+            "accuracy_percent": 42.0
+        },
+        {
+            "class_name": "Crispy Chicken",
+            "total_validation_images": 50,
+            "correct_predictions": 24,
+            "accuracy_percent": 48.0
+        },
+        {
+            "class_name": "apple_pie",
+            "total_validation_images": 50,
+            "correct_predictions": 27,
+            "accuracy_percent": 54.0
+        },
+        {
+            "class_name": "Baked Potato",
+            "total_validation_images": 50,
+            "correct_predictions": 28,
+            "accuracy_percent": 56.0
+        }
+    ],
+    "strongest_classes": [
+        {
+            "class_name": "chai",
+            "total_validation_images": 50,
+            "correct_predictions": 45,
+            "accuracy_percent": 90.0
+        },
+        {
+            "class_name": "fried_rice",
+            "total_validation_images": 50,
+            "correct_predictions": 45,
+            "accuracy_percent": 90.0
+        },
+        {
+            "class_name": "kadai_paneer",
+            "total_validation_images": 50,
+            "correct_predictions": 45,
+            "accuracy_percent": 90.0
+        },
+        {
+            "class_name": "idli",
+            "total_validation_images": 50,
+            "correct_predictions": 46,
+            "accuracy_percent": 92.0
+        },
+        {
+            "class_name": "pizza",
+            "total_validation_images": 50,
+            "correct_predictions": 46,
+            "accuracy_percent": 92.0
+        }
+    ]
+}
