@@ -1431,7 +1431,7 @@ with left_column:
     )
 
     st.progress(
-        64
+        min(int(CNN_ACCURACY), 100)
     )
 
     render_html(
@@ -1443,7 +1443,7 @@ with left_column:
     )
 
     st.progress(
-        75
+        min(int(VGG16_ACCURACY), 100)
     )
 
     render_html(
@@ -1455,7 +1455,7 @@ with left_column:
     )
 
     st.progress(
-        83
+        min(int(RESNET50_ACCURACY), 100)
     )
 
     # ========================================================

@@ -6,8 +6,10 @@ env/
 # Dataset (large files)
 dataset/
 
-# Trained Models (large files)
-models/
+# Duplicate / unused trained models
+models/best_food_cnn.keras
+models/best_food_vgg16.keras
+models/best_food_resnet50.keras
 
 # Python Cache
 __pycache__/
@@ -25,8 +27,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Streamlit Cache
-.streamlit/
+# Streamlit Secrets
+.streamlit/secrets.toml
 
 # Temporary Files
 *.log
