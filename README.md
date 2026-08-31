@@ -14,7 +14,7 @@ The system compares the performance of all models and provides the predicted foo
 
 ## 🚀 Live Application
 
-🔗 Live Demo: Coming Soon
+🔗 Live Demo:(https://foodselectionusingdeeplearning-16.streamlit.app/)
 
 ---
 
@@ -310,6 +310,10 @@ Possible future enhancements include:
 **Syeda Nazneen**
 
 Deep Learning Developer | Python | Machine Learning | Computer Vision
+
+# GitHub:
+
+https://github.com/SyedaNazneen
 
 ---
 
