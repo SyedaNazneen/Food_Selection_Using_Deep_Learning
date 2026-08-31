@@ -227,13 +227,13 @@ Food_Selection_Deep_Learning_CNN/
 ## Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SyedaNazneen/Food_Selection_Using_Deep_Learning.git
 ```
 
 ## Navigate to Project Directory
 
 ```bash
-cd Food_Selection_Deep_Learning_CNN
+cd Food_Selection_Using_Deep_Learning
 ```
 
 ## Create Virtual Environment
